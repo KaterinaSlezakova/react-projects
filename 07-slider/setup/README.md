@@ -2,4 +2,4 @@
 
 #### IN ACTION
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+[Gatsby-Airtable Project](https://gatsby-airtable-ndesign-project.netlify.app/)

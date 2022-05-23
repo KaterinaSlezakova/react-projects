@@ -1,3 +1,3 @@
 ## Idea
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+[https://uidesigndaily.com/](://uidesigndaily.com/posts/httpssketch-birthdays-list-card-widget-day-1042)
